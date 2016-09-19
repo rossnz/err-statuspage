@@ -14,7 +14,7 @@ The plugin needs to know:
 * your API credentials (`API_TOKEN`)
 
 You can configure your Errbot for this plugin like this:
-`!config cachet { 'URL': 'https://status.mydomain.com', 'API_TOKEN': 'abc123'}`
+`!config statuspage { 'URL': 'https://status.mydomain.com', 'API_TOKEN': 'abc123'}`
 
 ## Licence
 
