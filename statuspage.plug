@@ -1,0 +1,11 @@
+[Core]
+module = statuspage
+name = statuspage
+
+[Documentation]
+description = Talks to a Cachet status server
+
+[Python]
+version = 3
+
+[Errbot]
